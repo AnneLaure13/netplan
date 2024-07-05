@@ -11,5 +11,3 @@ Ensure the following prerequisites are satisfied.
 - KVM and QEMU installed; see [KVM installation](https://help.ubuntu.com/community/KVM/Installation).
 
 - Administrator privileges.
-
-:label: prerequisitesandsystem
